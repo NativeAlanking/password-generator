@@ -62,20 +62,6 @@ function writePassword() {
 
   generatePassword();
 
-  console.log(
-    "Password: Length " +
-      passwordLength +
-      " Use Special: " +
-      checkIfUsed[3] +
-      " UpperCase: " +
-      checkIfUsed[0] +
-      " LowerCase: " +
-      checkIfUsed[1] +
-      " Numeric: " +
-      checkIfUsed[2]
-  );
-
-
   var password = generatePassword();
 
   passwordText.value = password;
