@@ -8,4 +8,4 @@ Website Link: https://nativealanking.github.io/password-generator/
 
 
 Website IMG:
-![](website.png)
+![](Website.png)
